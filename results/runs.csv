@@ -1,0 +1,4 @@
+model,date,params,epochs_trained,best_epoch,train_acc,val_acc,val_loss,test_acc,test_loss,macro_f1,hp_epochs,hp_lr,hp_patience,hp_batch_size,hp_filters,hp_dropout,hp_dense_units,hp_augment,hp_batchnorm,hp_class_weight
+tl_mobilenetv2_frozen,2026-11-23 17:39,2428362,10,10,0.9755,1.0,0.0102,1.0,0.0041,1.0,10,0.001,3,32,MobileNetV2 frozen,0.5,128,True,True,True
+tl_mobilenetv2_frozen,2026-11-23 17:42,2428362,10,10,0.9755,1.0,0.0102,1.0,0.0041,1.0,10,0.001,3,32,MobileNetV2 frozen,0.5,128,True,True,True
+tl_mobilenetv2_finetuned,2026-11-23 17:45,2428362,5,1,0.9176,0.98,0.0281,1.0,0.0102,1.0,10,1e-05,4,32,MobileNetV2 last 30 layers,0.5,128,True,True,True
