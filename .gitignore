@@ -221,3 +221,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Model weights and run outputs
+*.keras
+*.h5
+models/
