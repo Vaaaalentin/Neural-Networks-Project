@@ -1,0 +1,14 @@
+,precision,recall,f1-score,support
+basketball,1.0,1.0,1.0,5.0
+bowling,1.0,1.0,1.0,5.0
+football,1.0,1.0,1.0,5.0
+judo,1.0,1.0,1.0,5.0
+rowing,1.0,1.0,1.0,5.0
+ski jumping,1.0,1.0,1.0,5.0
+surfing,1.0,1.0,1.0,5.0
+swimming,1.0,1.0,1.0,5.0
+tennis,1.0,1.0,1.0,5.0
+track bicycle,1.0,1.0,1.0,5.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,50.0
+weighted avg,1.0,1.0,1.0,50.0
